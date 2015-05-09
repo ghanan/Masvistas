@@ -31,10 +31,10 @@
         android:hint="Introduce un número" />
 
     <Button
+        android:id="@+id/button0"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="0"
-        android:id="@+id/button0"
         android:onClick="sePulsa0"
         android:layout_gravity="top"
         android:tag="0" />
